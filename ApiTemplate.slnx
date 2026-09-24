@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="ApiTemplate/Template.Api.App.csproj" />
+  <Project Path="Template.Api.Data/Template.Api.Data.csproj" />
+  <Project Path="Template.Api.Business/Template.Api.Business.csproj" />
+  <Project Path="Template.Api.Db/Template.Api.Db.csproj" />
+  <Project Path="Template.Api.Dto/Template.Api.Dto.csproj" />
+  <Project Path="Template.Api.Model/Template.Api.Model.csproj" />
+</Solution>
