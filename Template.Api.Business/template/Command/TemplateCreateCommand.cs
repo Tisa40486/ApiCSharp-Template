@@ -6,10 +6,7 @@ using Template.Model;
 
 namespace Template.Api.Business.template.Command
 {
-    public class TemplateCreateCommand : TemplateInput, IRequest<int>
-    {
-    }
-
+    public class TemplateCreateCommand : TemplateInput, IRequest<int> { }
     public class TemplateCreateCommandHandler : IRequestHandler<TemplateCreateCommand, int>
     {
         readonly IMapper _mapper;
