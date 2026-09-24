@@ -12,7 +12,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\Template,Api.Data\Template.Api.Data.csproj" />
+		<ProjectReference Include="..\Template.Api.Data\Template.Api.Data.csproj" />
 		<ProjectReference Include="..\Template.Api.Model\Template.Api.Model.csproj" />
 	</ItemGroup>
 </Project>
